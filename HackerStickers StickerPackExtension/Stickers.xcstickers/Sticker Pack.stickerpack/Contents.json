@@ -1,4 +1,99 @@
 {
+  "stickers" : [
+    {
+      "filename" : "hacker.sticker"
+    },
+    {
+      "filename" : "sunsetbeta.sticker"
+    },
+    {
+      "filename" : "sunset support.sticker"
+    },
+    {
+      "filename" : "pepescare.sticker"
+    },
+    {
+      "filename" : "cryingpepe.sticker"
+    },
+    {
+      "filename" : "coolpepe.sticker"
+    },
+    {
+      "filename" : "surprisedpepe.sticker"
+    },
+    {
+      "filename" : "magnifiedpepe.sticker"
+    },
+    {
+      "filename" : "heartpepe.sticker"
+    },
+    {
+      "filename" : "gunpepe.sticker"
+    },
+    {
+      "filename" : "nootnoot.sticker"
+    },
+    {
+      "filename" : "nootnootlick.sticker"
+    },
+    {
+      "filename" : "angrycat.sticker"
+    },
+    {
+      "filename" : "kermit.sticker"
+    },
+    {
+      "filename" : "sleepkermit.sticker"
+    },
+    {
+      "filename" : "madkermit.sticker"
+    },
+    {
+      "filename" : "evilpatrick-1.sticker"
+    },
+    {
+      "filename" : "evilpatrick.sticker"
+    },
+    {
+      "filename" : "cavesponge.sticker"
+    },
+    {
+      "filename" : "duckwithknife.sticker"
+    },
+    {
+      "filename" : "duck4ceci.sticker"
+    },
+    {
+      "filename" : "blobguns.sticker"
+    },
+    {
+      "filename" : "blobsweat.sticker"
+    },
+    {
+      "filename" : "thank.sticker"
+    },
+    {
+      "filename" : "thon.sticker"
+    },
+    {
+      "filename" : "cold.sticker"
+    },
+    {
+      "filename" : "maniac.sticker"
+    },
+    {
+      "filename" : "superangry.sticker"
+    },
+    {
+      "filename" : "devil.sticker"
+    },
+    {
+      "filename" : "scared.sticker"
+    },
+    {
+      "filename" : "image.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
